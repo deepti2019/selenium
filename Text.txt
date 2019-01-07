@@ -1,0 +1,28 @@
+ Volume in drive C has no label.
+ Volume Serial Number is F82D-A230
+
+ Directory of C:\Users\hp
+
+01/07/2019  12:14 PM    <DIR>          .
+01/07/2019  12:14 PM    <DIR>          ..
+12/12/2018  01:51 PM    <DIR>          .eclipse
+01/07/2019  12:01 PM    <DIR>          .p2
+12/12/2018  01:41 PM    <DIR>          .tooling
+04/21/2018  10:52 AM    <DIR>          3D Objects
+04/21/2018  10:52 AM    <DIR>          Contacts
+12/23/2018  10:57 PM    <DIR>          Desktop
+04/21/2018  10:52 AM    <DIR>          Documents
+01/07/2019  11:54 AM    <DIR>          Downloads
+12/19/2018  11:27 AM    <DIR>          eclipse
+12/12/2018  01:51 PM    <DIR>          eclipse-workspace
+04/21/2018  10:52 AM    <DIR>          Favorites
+04/21/2018  10:52 AM    <DIR>          Links
+04/21/2018  10:52 AM    <DIR>          Music
+12/18/2018  11:47 AM    <DIR>          OneDrive
+04/21/2018  10:52 AM    <DIR>          Pictures
+04/21/2018  10:52 AM    <DIR>          Saved Games
+04/21/2018  10:52 AM    <DIR>          Searches
+01/07/2019  12:14 PM                 0 Text.txt
+04/21/2018  10:52 AM    <DIR>          Videos
+               1 File(s)              0 bytes
+              20 Dir(s)  22,776,000,512 bytes free
